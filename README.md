@@ -1,3 +1,2 @@
 # git_test
-this is learning!
-Hello Odin!
+Trying to learn git and github, 
